@@ -4,7 +4,7 @@ Solução para o desafio de programação Android
 ## Requisitos para configurar o projeto
 
 1. Android Studio 2.3.3 ou superior
-2. Gradle Plugin gradle plugin 3.3 ou superior
+2. Gradle Plugin 3.3 ou superior
 3. Android SDK Version 26
 4. Build Tool Version 26.0.2
 5. Compatível com Android API Level 19 em diante 
