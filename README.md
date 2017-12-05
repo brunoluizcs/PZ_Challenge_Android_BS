@@ -21,7 +21,7 @@ Solução para o desafio de programação Android
 1. Download do audio e vídeo de cada mídia 
 2. O vídeo toca em looping até o termino do áudio
 3. Reprodução de vídeo e áudio por Streaming e também por arquivos locais.
-4. Reprodução do vídeo automaticamente após a concluso do download
+4. Reprodução do vídeo automaticamente após a conclusão do download
 
 
 
