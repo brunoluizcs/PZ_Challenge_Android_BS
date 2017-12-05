@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BsPhotoZig</string>
+    <string name="main_image_description">Imagem Principal</string>
+    <string name="play_button_description">Botão para reproduzir o vídeo</string>
+    <string name="download_button_description">Botão para realizar o download</string>
+    <string name="error_parametro_invalido">Parâmetros inválidos</string>
+</resources>

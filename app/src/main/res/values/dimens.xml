@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_vertical_margin">16dp</dimen>
+    <dimen name="view_horizontal_margin">16dp</dimen>
+    <dimen name="action_image_button">32dp</dimen>
+    <dimen name="progress_bar">42dp</dimen>
+    <dimen name="view_horizontal_margin_large">64dp</dimen>
+</resources>

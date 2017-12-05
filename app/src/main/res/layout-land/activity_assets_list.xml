@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/view_horizontal_margin_large"
+    android:paddingRight="@dimen/view_horizontal_margin_large"
+    tools:context="photozig.bomcodigo.com.bsphotozig.ui.assetslist.AssetsListActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="@dimen/cardview_default_elevation"
+        app:cardUseCompatPadding="true">
+
+        <include layout="@layout/content_asset_list" />
+
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>
