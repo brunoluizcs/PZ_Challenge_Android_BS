@@ -11,7 +11,7 @@ Solução para o desafio de programação Android
 6. Todas as dependencias estão gerenciadas pelo Gradle .
 
 ## Descrição das principais dependencias do projeto
-1. RetroFit para para requisiçoes HTTP
+1. RetroFit para realizar requisiçoes HTTP
 2. Dagger para injeção de dependencias
 3. ButterKnife para interagir com os componentes visuais e recursos
 4. Glide para interação com imagens
